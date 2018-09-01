@@ -1,0 +1,1 @@
+# LS-react-static-comp
